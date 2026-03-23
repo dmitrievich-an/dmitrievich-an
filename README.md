@@ -15,5 +15,7 @@
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dmitrievich-an&theme=dark" alt="dmitrievich-an" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmitrievich-an&show_icons=true&theme=dracula&locale=en&layout=compact" alt="dmitrievich-an" /></p>
-[![codewars](https://www.codewars.com/users/dmitrievich-an/badges/small)](https://www.codewars.com/users/dmitrievich-an)
-<img align="right" src="https://komarev.com/ghpvc/?username=dmitrievich-an&label=Profile%20views&color=0e75b6&style=flat" alt="dmitrievich-an" />
+<a href="https://www.codewars.com/users/dmitrievich-an" target="_blank">
+  <img src="https://www.codewars.com/users/dmitrievich-an/badges/small" alt="codewars"/>
+</a>
+<img align="right" src="https://komarev.com/ghpvc/?username=dmitrievich-an&label=Profile%20views&color=0e75b6&style=flat" alt="dmitrievich-an"/>
