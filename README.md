@@ -18,7 +18,7 @@
 </p>
 <br>
 <p align="center"><img align="center" src="https://streak-stats.demolab.com?user=dmitrievich-an&theme=dark" alt="dmitrievich-an" /></p>
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dmitrievich-an&theme=dracula" alt="dmitrievich-an" /></p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dmitrievich-an&theme=dracula" alt="dmitrievich-an" /></p>
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dmitrievich-an&show_icons=true&theme=dracula&locale=en" alt="dmitrievich-an" /></p> -->
 
 [![codewars](https://www.codewars.com/users/dmitrievich-an/badges/small)](https://www.codewars.com/users/dmitrievich-an)
