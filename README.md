@@ -1,6 +1,5 @@
 <h1 align="center">Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I'm Artem, AQA-Engineer (ʘ‿ʘ)</h3>
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
@@ -17,14 +16,9 @@
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/></a>
 </p>
-
 <br>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dmitrievich-an&theme=dark" alt="dmitrievich-an" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmitrievich-an&show_icons=true&theme=dracula&locale=en&layout=compact" alt="dmitrievich-an" /></p>
-
+<p align="center"><img align="center" src="https://streak-stats.demolab.com?user=dmitrievich-an&theme=dark" alt="dmitrievich-an" /></p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dmitrievich-an&theme=dracula" alt="dmitrievich-an" /></p>
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dmitrievich-an&show_icons=true&theme=dracula&locale=en" alt="dmitrievich-an" /></p> -->
-
 [![codewars](https://www.codewars.com/users/dmitrievich-an/badges/small)](https://www.codewars.com/users/dmitrievich-an)
 <img align="right" src="https://komarev.com/ghpvc/?username=dmitrievich-an&label=Profile%20views&color=0e75b6&style=flat" alt="dmitrievich-an" />
